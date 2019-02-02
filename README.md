@@ -5,4 +5,3 @@
 * Multiclass Classification - wineQualityReds Using ANN to classify wine
 * MultiClass Classification- Iris dataset - Using ANN to classify a plant
 * Regression - Predicting a real-valued output for Petrol_Consumption- Using ANN with regression
-* 
